@@ -61,3 +61,5 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple django
 # Permenant Configuration
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple/
 ```
+
+6. Install VSCode extension for Django.
